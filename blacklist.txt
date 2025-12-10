@@ -1,2 +1,1 @@
-KQD-9796	High Risk
-KQH-3573	High Risk
+
